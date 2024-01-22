@@ -19,4 +19,6 @@ def combine(bracket_one, bracket_two):
 list1 = [10, 20, 25, 30, 35]
 list2 = [40, 45, 60, 75, 90]
 
+# print the program
+print(f"result list: {combine(list1, list2)}")
 
