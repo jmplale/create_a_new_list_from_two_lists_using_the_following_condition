@@ -12,3 +12,5 @@ def combine(bracket_one, bracket_two):
     for number in bracket_two:
         if number % 2 == 0:
             new_bracket.append(number)
+    # return to new_bracket
+    return new_bracket
