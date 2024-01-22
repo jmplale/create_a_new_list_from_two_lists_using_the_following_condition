@@ -14,3 +14,8 @@ def combine(bracket_one, bracket_two):
             new_bracket.append(number)
     # return to new_bracket
     return new_bracket
+
+# copy the given bracket 
+list1 = [5, 10, 15, 20, 25]
+list2 = [3, 6, 9, 12, 15]
+
