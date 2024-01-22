@@ -16,6 +16,7 @@ def combine(bracket_one, bracket_two):
     return new_bracket
 
 # copy the given bracket 
-list1 = [5, 10, 15, 20, 25]
-list2 = [3, 6, 9, 12, 15]
+list1 = [10, 20, 25, 30, 35]
+list2 = [40, 45, 60, 75, 90]
+
 
